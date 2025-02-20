@@ -1,5 +1,11 @@
 # @dnd-kit/modifiers
 
+## 9.1.0
+
+### Minor Changes
+
+- [`11334a5`](https://github.com/clauderic/dnd-kit/commit/11334a57aeabdb182f7a7d99e9761316cc5b1a45) Thanks [@mmestiyak](https://github.com/mmestiyak)! - Added new `restrictToSpecificParent` modifier that allows restricting dragging within a specific parent element's boundaries using React refs. This is useful when you need to constrain movement to a container that isn't the immediate parent element.
+
 ## 9.0.0
 
 ### Patch Changes
